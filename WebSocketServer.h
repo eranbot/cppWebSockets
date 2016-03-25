@@ -22,7 +22,7 @@
 #include <sys/time.h>
 #include <iostream>
 #include <sstream>
-#include "libwebsockets.h"
+//EW #include "libwebsockets.h"
 
 using namespace std;
 
